@@ -1,0 +1,8 @@
+cryptography>=41.0.0
+os
+sys
+json
+base64
+getpass
+secrets
+string
